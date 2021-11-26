@@ -1,0 +1,568 @@
+,Batsman,Ground,Runs,4s,6s,No. of Matches Played,Average Strike Rate,Balls Faced
+0,Devilliers,The Oval,40,4,0,3,47.33,63
+1,Devilliers,Kimberley,124,12,3,2,126.5,98
+2,Devilliers,Leeds,24,3,0,1,68.0,35
+3,Devilliers,Lahore,155,15,3,3,85.33,167
+4,Devilliers,Abu Dhabi,144,11,0,4,80.75,176
+5,Devilliers,Dubai (DSC),139,6,0,4,62.0,203
+6,Devilliers,Chennai,108,8,3,3,99.0,117
+7,Devilliers,Pallekele,80,6,0,3,61.67,121
+8,Devilliers,Auckland,151,15,7,3,152.0,108
+9,Devilliers,Perth,188,16,1,3,102.0,188
+10,Devilliers,Mohali,144,15,4,2,113.0,109
+11,Devilliers,Napier,31,2,0,1,88.0,35
+12,Devilliers,Birmingham,31,1,1,1,100.0,31
+13,Devilliers,Southampton,28,1,0,1,96.0,29
+14,Devilliers,Port of Spain,60,7,1,3,86.33,70
+15,Devilliers,Mount Maunganui,126,14,1,2,126.0,110
+16,Devilliers,Bulawayo,85,5,2,3,91.33,101
+17,Devilliers,Multan,1,0,0,1,100.0,1
+18,Devilliers,Gwalior,114,13,2,1,112.0,101
+19,Devilliers,Canberra,76,7,3,2,209.0,43
+20,Devilliers,Potchefstroom,136,8,5,2,110.5,115
+21,Devilliers,Nottingham,80,10,0,2,57.0,104
+22,Devilliers,Sharjah,119,10,3,2,72.5,114
+23,Devilliers,Roseau,127,5,1,2,88.0,144
+24,Devilliers,Durban,568,55,4,12,75.08,693
+25,Devilliers,Delhi,107,8,2,1,101.0,105
+26,Devilliers,Basseterre,154,23,4,3,89.33,117
+27,Devilliers,Melbourne,121,9,0,2,90.5,126
+28,Devilliers,Dhaka,144,13,1,3,85.33,189
+29,Devilliers,Hamilton,58,5,1,2,79.0,73
+30,Devilliers,North Sound,143,8,3,2,108.5,136
+31,Devilliers,Harare,322,27,10,6,84.33,278
+32,Devilliers,Hyderabad (Deccan),7,1,0,1,43.0,16
+33,Devilliers,Nagpur,52,6,1,1,133.0,39
+34,Devilliers,Cape Town,380,44,3,10,83.4,385
+35,Devilliers,Centurion,593,59,11,17,78.65,671
+36,Devilliers,Hambantota,108,11,4,1,152.0,71
+37,Devilliers,Bloemfontein,156,13,0,5,91.6,170
+38,Devilliers,Providence,15,1,0,3,12.67,47
+39,Devilliers,Ahmedabad,156,14,3,2,116.5,147
+40,Devilliers,Bangalore,8,2,0,2,140.0,7
+41,Devilliers,Colombo (RPS),161,16,2,4,98.5,158
+42,Devilliers,Jaipur,71,7,0,2,94.0,80
+43,Devilliers,St George's,146,12,5,2,56.0,136
+44,Devilliers,Benoni,309,21,11,4,123.75,288
+45,Devilliers,Adelaide,82,6,1,1,96.0,85
+46,Devilliers,East London,19,2,0,2,79.0,20
+47,Devilliers,Wellington,205,9,8,2,110.0,188
+48,Devilliers,Johannesburg,610,48,29,8,131.12,458
+49,Devilliers,Lord's,53,2,0,2,62.5,80
+50,Devilliers,Hobart,44,2,0,1,70.0,62
+51,Devilliers,Cardiff,107,9,1,2,120.0,97
+52,Devilliers,Faisalabad,17,2,0,1,60.0,28
+53,Devilliers,Port Elizabeth,361,37,8,12,91.58,387
+54,Devilliers,Sydney,167,18,8,2,185.0,70
+55,Devilliers,Bridgetown,42,8,0,1,120.0,35
+56,Devilliers,Gros Islet,15,3,0,1,44.0,34
+57,Devilliers,Belfast,79,11,0,4,55.0,113
+58,Devilliers,Paarl,59,8,0,2,108.5,48
+59,Tendulkar,The Oval,272,39,0,6,50.0,528
+60,Tendulkar,Colombo (PSS),186,19,0,5,51.8,380
+61,Tendulkar,Leeds,193,19,3,1,58.0,330
+62,Tendulkar,Lahore,51,6,0,3,50.0,107
+63,Tendulkar,Chennai,970,107,10,16,57.62,1780
+64,Tendulkar,Auckland,5,1,0,1,38.0,13
+65,Tendulkar,Perth,226,32,0,6,57.0,364
+66,Tendulkar,Kanpur,199,19,2,6,44.83,473
+67,Tendulkar,Napier,201,21,2,3,52.0,462
+68,Tendulkar,Mohali,767,98,0,18,49.17,1528
+69,Tendulkar,Mumbai,921,125,9,19,54.37,1634
+70,Tendulkar,Kolkata,872,130,3,21,49.71,1610
+71,Tendulkar,Birmingham,187,31,1,4,51.0,286
+72,Tendulkar,Port of Spain,205,23,0,3,27.33,497
+73,Tendulkar,Bulawayo,110,16,0,2,65.0,177
+74,Tendulkar,Rawalpindi,1,0,0,1,33.0,3
+75,Tendulkar,Multan,194,21,0,1,55.0,348
+76,Tendulkar,Chittagong,289,30,2,5,62.0,466
+77,Tendulkar,Nottingham,541,83,1,8,52.5,970
+78,Tendulkar,Christchurch,24,3,0,2,27.0,45
+79,Tendulkar,Chandigarh,11,0,0,1,0.0,0
+80,Tendulkar,Brisbane,23,4,0,3,22.0,70
+81,Tendulkar,Durban,112,19,0,7,38.14,248
+82,Tendulkar,St John's,0,0,0,1,0.0,1
+83,Tendulkar,Mumbai (BS),53,6,0,1,51.0,103
+84,Tendulkar,Delhi,759,110,2,19,54.05,1456
+85,Tendulkar,Manchester,187,25,0,2,56.0,325
+86,Tendulkar,Dhaka,531,57,2,4,59.75,828
+87,Tendulkar,Hamilton,322,48,1,6,57.5,521
+88,Tendulkar,Harare,130,14,1,5,38.8,266
+89,Tendulkar,Hyderabad (Deccan),39,4,0,3,40.67,105
+90,Tendulkar,Karachi,64,12,0,3,65.33,100
+91,Tendulkar,Nagpur,970,120,2,15,50.07,1771
+92,Tendulkar,Cape Town,489,64,3,7,37.86,1087
+93,Tendulkar,Centurion,147,21,1,2,75.5,275
+94,Tendulkar,Bloemfontein,170,25,1,2,63.0,219
+95,Tendulkar,Ahmedabad,642,84,1,16,57.56,1281
+96,Tendulkar,Bangalore,869,118,7,16,52.0,1579
+97,Tendulkar,Colombo (RPS),143,20,0,1,57.0,247
+98,Tendulkar,Galle,128,18,1,4,84.0,208
+99,Tendulkar,Sialkot,92,11,0,2,55.0,185
+100,Tendulkar,Adelaide,326,35,3,10,44.0,584
+101,Tendulkar,Wellington,290,40,3,6,59.0,428
+102,Tendulkar,Johannesburg,214,38,0,6,52.83,452
+103,Tendulkar,Georgetown,162,22,0,2,46.5,367
+104,Tendulkar,Lord's,195,30,0,9,41.33,478
+105,Tendulkar,Faisalabad,81,8,0,3,42.0,221
+106,Tendulkar,Sydney,785,95,1,9,68.33,1284
+107,Tendulkar,Port Elizabeth,29,5,0,4,27.0,67
+108,Tendulkar,Kingston,149,22,0,4,47.5,268
+109,Tendulkar,Bridgetown,104,15,1,4,34.25,180
+110,Tendulkar,Colombo (SSC),698,80,3,9,54.78,1235
+111,Tendulkar,Melbourne,449,43,3,10,55.3,765
+112,Tendulkar,Lucknow,142,22,0,1,63.0,224
+113,Tendulkar,Cuttack,2,0,0,1,25.0,8
+114,Ganguly,The Oval,145,21,1,3,63.67,229
+115,Ganguly,Colombo (PSS),53,5,2,2,48.5,107
+116,Ganguly,Leeds,128,14,3,1,76.0,167
+117,Ganguly,Chennai,153,17,2,10,38.6,383
+118,Ganguly,Kanpur,237,31,1,6,43.67,436
+119,Ganguly,Perth,9,2,0,2,37.5,15
+120,Ganguly,Mohali,372,40,3,7,52.0,751
+121,Ganguly,Mumbai,230,32,3,7,41.43,488
+122,Ganguly,Kolkata,440,57,1,14,48.93,822
+123,Ganguly,Port of Spain,106,10,0,3,35.67,321
+124,Ganguly,Bulawayo,106,11,0,2,31.5,282
+125,Ganguly,Rawalpindi,77,12,0,1,60.0,128
+126,Ganguly,Chittagong,201,23,2,3,67.67,333
+127,Ganguly,Nottingham,432,59,3,6,52.0,822
+128,Ganguly,Durban,42,5,0,4,28.25,81
+129,Ganguly,St John's,45,4,1,1,44.0,101
+130,Ganguly,Brisbane,144,18,0,1,73.0,196
+131,Ganguly,Delhi,582,76,9,14,54.29,1209
+132,Ganguly,Dhaka,170,19,0,3,52.33,308
+133,Ganguly,Hamilton,122,17,3,4,64.75,161
+134,Ganguly,Harare,108,14,1,5,31.4,258
+135,Ganguly,Karachi,71,12,0,2,65.0,109
+136,Ganguly,Nagpur,252,30,2,5,38.2,505
+137,Ganguly,Cape Town,165,21,1,4,58.75,284
+138,Ganguly,Bloemfontein,44,8,0,2,59.5,89
+139,Ganguly,Ahmedabad,411,42,7,8,52.75,754
+140,Ganguly,Colombo (RPS),0,0,0,1,0.0,5
+141,Ganguly,Bangalore,503,59,3,13,41.0,936
+142,Ganguly,Galle,35,2,0,4,24.0,121
+143,Ganguly,Wellington,72,10,0,4,46.75,161
+144,Ganguly,Adelaide,142,15,0,6,42.83,301
+145,Ganguly,Johannesburg,209,32,3,4,57.75,370
+146,Ganguly,Georgetown,5,0,0,1,41.0,12
+147,Ganguly,Lord's,210,30,0,5,32.0,481
+148,Ganguly,Kingston,106,16,0,3,41.33,258
+149,Ganguly,Sydney,160,22,1,5,78.0,201
+150,Ganguly,Port Elizabeth,46,7,0,2,56.5,64
+151,Ganguly,Bridgetown,138,15,1,4,47.25,293
+152,Ganguly,Colombo (SSC),384,48,3,8,36.62,891
+153,Ganguly,Melbourne,241,27,1,6,50.17,467
+154,Ganguly,Kandy,116,17,0,2,82.0,170
+155,Sehwag2,Queenstown,23,4,0,1,58.0,39
+156,Sehwag2,The Oval,46,8,1,2,56.0,43
+157,Sehwag2,Peshawar,18,4,0,2,77.5,24
+158,Sehwag2,Lahore,46,9,0,2,89.5,51
+159,Sehwag2,Auckland,152,14,6,3,76.0,171
+160,Sehwag2,Perth,32,6,0,1,94.0,34
+161,Sehwag2,Napier,185,20,3,2,113.5,175
+162,Sehwag2,Melbourne (Docklands),64,8,1,3,97.33,65
+163,Sehwag2,Port of Spain,138,18,1,4,73.0,147
+164,Sehwag2,Rawalpindi,93,14,1,2,117.0,81
+165,Sehwag2,Nottingham,4,0,0,1,33.0,12
+166,Sehwag2,Christchurch,10,1,0,2,42.5,26
+167,Sehwag2,Durban,34,4,1,1,58.0,58
+168,Sehwag2,Dambulla,222,32,2,6,107.0,222
+169,Sehwag2,Basseterre,97,9,3,1,116.0,83
+170,Sehwag2,Dhaka,474,59,11,9,116.33,377
+171,Sehwag2,Hamilton,129,14,6,2,94.5,93
+172,Sehwag2,Harare,48,8,0,2,93.0,51
+173,Sehwag2,Karachi,247,32,8,3,137.0,185
+174,Sehwag2,Cape Town,0,0,0,1,0.0,4
+175,Sehwag2,Centurion,44,6,1,2,86.0,49
+176,Sehwag2,Hambantota,111,12,0,2,99.0,112
+177,Sehwag2,Colombo (RPS),383,54,3,12,101.25,350
+178,Sehwag2,Bridgetown,21,3,0,1,58.0,36
+179,Sehwag2,Wellington,45,9,0,1,112.0,40
+180,Sehwag2,East London,4,0,0,1,80.0,5
+181,Sehwag2,Adelaide,20,3,0,1,95.0,21
+182,Sehwag2,Johannesburg,5,0,0,1,100.0,5
+183,Sehwag2,Lord's,117,16,1,3,83.33,116
+184,Sehwag2,Kingston,34,4,0,2,65.5,51
+185,Sehwag2,Sydney,34,5,1,3,101.67,37
+186,Sehwag2,Port Elizabeth,18,3,0,1,81.0,22
+187,Sehwag2,Bulawayo,2,0,0,1,28.0,7
+188,Sehwag2,Colombo (SSC),0,0,0,1,0.0,1
+189,Sehwag2,Melbourne,49,5,0,3,51.0,86
+190,Sehwag1,Queenstown,23,4,0,1,58.0,39
+191,Sehwag1,The Oval,46,8,1,2,56.0,43
+192,Sehwag1,Rajkot,405,51,12,6,109.83,326
+193,Sehwag1,Peshawar,18,4,0,2,77.5,24
+194,Sehwag1,Lahore,46,9,0,2,89.5,51
+195,Sehwag1,Chennai,86,14,1,3,76.33,98
+196,Sehwag1,Auckland,152,14,6,3,76.0,171
+197,Sehwag1,Pune,48,7,0,1,82.0,58
+198,Sehwag1,Kanpur,155,23,1,3,86.33,151
+199,Sehwag1,Perth,32,6,0,1,94.0,34
+200,Sehwag1,Mohali,197,31,1,6,107.0,196
+201,Sehwag1,Napier,185,20,3,2,113.5,175
+202,Sehwag1,Mumbai,58,8,2,4,60.25,52
+203,Sehwag1,Melbourne (Docklands),64,8,1,3,97.33,65
+204,Sehwag1,Kolkata,158,23,2,6,85.67,188
+205,Sehwag1,Port of Spain,138,18,1,4,73.0,147
+206,Sehwag1,Rawalpindi,93,14,1,2,117.0,81
+207,Sehwag1,Gwalior,52,5,1,3,56.0,63
+208,Sehwag1,Nottingham,4,0,0,1,33.0,12
+209,Sehwag1,Visakhapatnam,146,22,2,3,121.0,119
+210,Sehwag1,Christchurch,10,1,0,2,42.5,26
+211,Sehwag1,Durban,34,4,1,1,58.0,58
+212,Sehwag1,Vijayawada,12,2,0,1,80.0,15
+213,Sehwag1,Dambulla,222,32,2,6,107.0,222
+214,Sehwag1,Vadodara,100,18,1,3,132.0,74
+215,Sehwag1,Brisbane,6,1,0,1,75.0,8
+216,Sehwag1,Delhi,120,17,2,5,95.4,121
+217,Sehwag1,Chester-le-Street,16,2,0,1,84.0,19
+218,Sehwag1,Basseterre,97,9,3,1,116.0,83
+219,Sehwag1,Indore,220,25,7,2,85.5,153
+220,Sehwag1,Dhaka,474,59,11,9,116.33,377
+221,Sehwag1,Hamilton,129,14,6,2,94.5,93
+222,Sehwag1,Faridabad,26,4,0,1,57.0,45
+223,Sehwag1,Harare,48,8,0,2,93.0,51
+224,Sehwag1,Hyderabad (Deccan),169,20,3,3,82.67,168
+225,Sehwag1,Karachi,247,32,8,3,137.0,185
+226,Sehwag1,Nagpur,138,23,1,5,87.8,131
+227,Sehwag1,Cape Town,0,0,0,1,0.0,4
+228,Sehwag1,Centurion,44,6,1,2,86.0,49
+229,Sehwag1,Hambantota,111,12,0,2,99.0,112
+230,Sehwag1,Jamshedpur,34,5,0,3,75.67,36
+231,Sehwag1,Kochi,134,13,3,2,95.5,128
+232,Sehwag1,Ahmedabad,84,11,0,6,79.33,97
+233,Sehwag1,Colombo (RPS),421,60,4,14,113.43,377
+234,Sehwag1,Bangalore,283,38,4,6,120.83,255
+235,Sehwag1,Bridgetown,21,3,0,1,58.0,36
+236,Sehwag1,Jaipur,104,12,2,4,132.5,91
+237,Sehwag1,Wellington,99,18,1,2,131.0,76
+238,Sehwag1,East London,4,0,0,1,80.0,5
+239,Sehwag1,Adelaide,20,3,0,1,95.0,21
+240,Sehwag1,Margao,27,5,0,2,95.0,35
+241,Sehwag1,Johannesburg,5,0,0,1,100.0,5
+242,Sehwag1,Lord's,117,16,1,3,83.33,116
+243,Sehwag1,Guwahati,6,0,1,1,150.0,4
+244,Sehwag1,Kingston,34,4,0,2,65.5,51
+245,Sehwag1,Jodhpur,18,3,0,1,85.0,21
+246,Sehwag1,Sydney,34,5,1,3,101.67,37
+247,Sehwag1,Port Elizabeth,18,3,0,1,81.0,22
+248,Sehwag1,Bulawayo,2,0,0,1,28.0,7
+249,Sehwag1,Colombo (SSC),0,0,0,1,0.0,1
+250,Sehwag1,Melbourne,49,5,0,3,51.0,86
+251,Sehwag1,Cuttack,160,27,1,4,99.75,140
+252,Tendulkarsp,Colombo (PSS),186,19,0,5,51.8,380
+253,Tendulkarsp,The Oval,272,39,0,6,50.0,528
+254,Tendulkarsp,Leeds,193,19,3,1,58.0,330
+255,Tendulkarsp,Lahore,51,6,0,3,50.0,107
+256,Tendulkarsp,Chennai,970,107,10,16,57.62,1780
+257,Tendulkarsp,Auckland,5,1,0,1,38.0,13
+258,Tendulkarsp,Kanpur,199,19,2,6,44.83,473
+259,Tendulkarsp,Perth,226,32,0,6,57.0,364
+260,Tendulkarsp,Mohali,767,98,0,18,49.17,1528
+261,Tendulkarsp,Napier,201,21,2,3,52.0,462
+262,Tendulkarsp,Mumbai,921,125,9,19,54.37,1634
+263,Tendulkarsp,Kolkata,872,130,3,21,49.71,1610
+264,Tendulkarsp,Birmingham,187,31,1,4,51.0,286
+265,Tendulkarsp,Port of Spain,205,23,0,3,27.33,497
+266,Tendulkarsp,Rawalpindi,1,0,0,1,33.0,3
+267,Tendulkarsp,Multan,194,21,0,1,55.0,348
+268,Tendulkarsp,Chittagong,289,30,2,5,62.0,466
+269,Tendulkarsp,Nottingham,541,83,1,8,52.5,970
+270,Tendulkarsp,Chandigarh,11,0,0,1,0.0,0
+271,Tendulkarsp,Mumbai (BS),53,6,0,1,51.0,103
+272,Tendulkarsp,Durban,112,19,0,7,38.14,248
+273,Tendulkarsp,Christchurch,24,3,0,2,27.0,45
+274,Tendulkarsp,Brisbane,23,4,0,3,22.0,70
+275,Tendulkarsp,St John's,0,0,0,1,0.0,1
+276,Tendulkarsp,Delhi,759,110,2,19,54.05,1456
+277,Tendulkarsp,Manchester,187,25,0,2,56.0,325
+278,Tendulkarsp,Dhaka,531,57,2,4,59.75,828
+279,Tendulkarsp,Hamilton,322,48,1,6,57.5,521
+280,Tendulkarsp,Harare,130,14,1,5,38.8,266
+281,Tendulkarsp,Hyderabad (Deccan),39,4,0,3,40.67,105
+282,Tendulkarsp,Karachi,64,12,0,3,65.33,100
+283,Tendulkarsp,Nagpur,970,120,2,15,50.07,1771
+284,Tendulkarsp,Cape Town,489,64,3,7,37.86,1087
+285,Tendulkarsp,Centurion,147,21,1,2,75.5,275
+286,Tendulkarsp,Bloemfontein,170,25,1,2,63.0,219
+287,Tendulkarsp,Ahmedabad,642,84,1,16,57.56,1281
+288,Tendulkarsp,Bangalore,869,118,7,16,52.0,1579
+289,Tendulkarsp,Bridgetown,104,15,1,4,34.25,180
+290,Tendulkarsp,Galle,128,18,1,4,84.0,208
+291,Tendulkarsp,Sialkot,92,11,0,2,55.0,185
+292,Tendulkarsp,Colombo (RPS),143,20,0,1,57.0,247
+293,Tendulkarsp,Adelaide,326,35,3,10,44.0,584
+294,Tendulkarsp,Wellington,290,40,3,6,59.0,428
+295,Tendulkarsp,Johannesburg,214,38,0,6,52.83,452
+296,Tendulkarsp,Georgetown,162,22,0,2,46.5,367
+297,Tendulkarsp,Lord's,195,30,0,9,41.33,478
+298,Tendulkarsp,Kingston,149,22,0,4,47.5,268
+299,Tendulkarsp,Port Elizabeth,29,5,0,4,27.0,67
+300,Tendulkarsp,Sydney,785,95,1,9,68.33,1284
+301,Tendulkarsp,Faisalabad,81,8,0,3,42.0,221
+302,Tendulkarsp,Bulawayo,110,16,0,2,65.0,177
+303,Tendulkarsp,Colombo (SSC),698,80,3,9,54.78,1235
+304,Tendulkarsp,Melbourne,449,43,3,10,55.3,765
+305,Tendulkarsp,Lucknow,142,22,0,1,63.0,224
+306,Tendulkarsp,Cuttack,2,0,0,1,25.0,8
+307,Kohli1,Rajkot,29,2,1,1,131.0,22
+308,Kohli1,Pallekele,68,11,1,1,141.0,48
+309,Kohli1,Chennai,70,10,1,1,170.0,41
+310,Kohli1,Pune,21,2,0,1,123.0,17
+311,Kohli1,Mohali,82,9,2,1,160.0,51
+312,Kohli1,Mumbai,127,18,1,2,189.5,67
+313,Kohli1,Kolkata,70,10,1,2,120.5,53
+314,Kohli1,Birmingham,66,9,1,1,160.0,41
+315,Kohli1,Port of Spain,14,2,0,1,116.0,12
+316,Kohli1,Durban,28,5,0,1,147.0,19
+317,Kohli1,Manchester,4,0,0,1,80.0,5
+318,Kohli1,Dhaka,472,44,10,10,117.5,385
+319,Kohli1,Harare,26,3,1,1,123.0,21
+320,Kohli1,Nagpur,23,2,0,1,85.0,27
+321,Kohli1,Ahmedabad,27,3,0,1,122.0,22
+322,Kohli1,Bangalore,33,1,1,2,90.5,35
+323,Kohli1,Colombo (RPS),185,20,4,5,105.6,151
+324,Kohli1,Dharamsala,43,1,3,1,159.0,27
+325,Kohli1,Adelaide,90,9,2,1,163.0,55
+326,Kohli1,Sydney,72,2,2,2,121.0,57
+327,Kohli1,Melbourne,90,10,1,2,153.5,57
+328,Kohli1,Cuttack,1,0,0,1,100.0,1
+329,Maxwell,The Oval,32,5,1,1,160.0,20
+330,Maxwell,Abu Dhabi,48,1,2,2,96.5,49
+331,Maxwell,Dubai (DSC),76,9,1,1,93.0,81
+332,Maxwell,Auckland,1,0,0,1,33.0,3
+333,Maxwell,Pune,31,1,3,1,134.0,23
+334,Maxwell,Perth,289,37,9,7,102.57,220
+335,Maxwell,Mohali,3,0,0,1,100.0,3
+336,Maxwell,Birmingham,29,1,2,1,131.0,22
+337,Maxwell,Canberra,4,0,0,1,133.0,3
+338,Maxwell,Sharjah,117,7,4,4,92.75,105
+339,Maxwell,Brisbane,54,8,0,1,138.0,39
+340,Maxwell,Harare,115,11,6,5,79.6,78
+341,Maxwell,Nagpur,9,2,0,1,150.0,6
+342,Maxwell,Ranchi,92,6,5,1,119.0,77
+343,Maxwell,Bangalore,60,3,7,1,272.0,22
+344,Maxwell,Jaipur,53,7,1,1,165.0,32
+345,Maxwell,Adelaide,74,6,2,3,85.67,82
+346,Maxwell,Hobart,46,5,0,2,98.5,47
+347,Maxwell,Sydney,133,13,5,5,95.2,81
+348,Maxwell,Melbourne,101,13,1,5,88.0,86
+349,Tendulkar1,The Oval,272,39,0,6,50.0,528
+350,Tendulkar1,Colombo (PSS),186,19,0,5,51.8,380
+351,Tendulkar1,Leeds,193,19,3,1,58.0,330
+352,Tendulkar1,Lahore,51,6,0,3,50.0,107
+353,Tendulkar1,Chennai,970,107,10,16,57.62,1780
+354,Tendulkar1,Auckland,5,1,0,1,38.0,13
+355,Tendulkar1,Perth,226,32,0,6,57.0,364
+356,Tendulkar1,Kanpur,199,19,2,6,44.83,473
+357,Tendulkar1,Napier,201,21,2,3,52.0,462
+358,Tendulkar1,Mohali,767,98,0,18,49.17,1528
+359,Tendulkar1,Mumbai,921,125,9,19,54.37,1634
+360,Tendulkar1,Kolkata,872,130,3,21,49.71,1610
+361,Tendulkar1,Birmingham,187,31,1,4,51.0,286
+362,Tendulkar1,Port of Spain,205,23,0,3,27.33,497
+363,Tendulkar1,Bulawayo,110,16,0,2,65.0,177
+364,Tendulkar1,Rawalpindi,1,0,0,1,33.0,3
+365,Tendulkar1,Multan,194,21,0,1,55.0,348
+366,Tendulkar1,Chittagong,289,30,2,5,62.0,466
+367,Tendulkar1,Nottingham,541,83,1,8,52.5,970
+368,Tendulkar1,Christchurch,24,3,0,2,27.0,45
+369,Tendulkar1,Chandigarh,11,0,0,1,0.0,0
+370,Tendulkar1,Brisbane,23,4,0,3,22.0,70
+371,Tendulkar1,Durban,112,19,0,7,38.14,248
+372,Tendulkar1,St John's,0,0,0,1,0.0,1
+373,Tendulkar1,Mumbai (BS),53,6,0,1,51.0,103
+374,Tendulkar1,Delhi,759,110,2,19,54.05,1456
+375,Tendulkar1,Manchester,187,25,0,2,56.0,325
+376,Tendulkar1,Dhaka,531,57,2,4,59.75,828
+377,Tendulkar1,Hamilton,322,48,1,6,57.5,521
+378,Tendulkar1,Harare,130,14,1,5,38.8,266
+379,Tendulkar1,Hyderabad (Deccan),39,4,0,3,40.67,105
+380,Tendulkar1,Karachi,64,12,0,3,65.33,100
+381,Tendulkar1,Nagpur,970,120,2,15,50.07,1771
+382,Tendulkar1,Cape Town,489,64,3,7,37.86,1087
+383,Tendulkar1,Centurion,147,21,1,2,75.5,275
+384,Tendulkar1,Bloemfontein,170,25,1,2,63.0,219
+385,Tendulkar1,Ahmedabad,642,84,1,16,57.56,1281
+386,Tendulkar1,Bangalore,869,118,7,16,52.0,1579
+387,Tendulkar1,Colombo (RPS),143,20,0,1,57.0,247
+388,Tendulkar1,Galle,128,18,1,4,84.0,208
+389,Tendulkar1,Sialkot,92,11,0,2,55.0,185
+390,Tendulkar1,Adelaide,326,35,3,10,44.0,584
+391,Tendulkar1,Wellington,290,40,3,6,59.0,428
+392,Tendulkar1,Johannesburg,214,38,0,6,52.83,452
+393,Tendulkar1,Georgetown,162,22,0,2,46.5,367
+394,Tendulkar1,Lord's,195,30,0,9,41.33,478
+395,Tendulkar1,Faisalabad,81,8,0,3,42.0,221
+396,Tendulkar1,Sydney,785,95,1,9,68.33,1284
+397,Tendulkar1,Port Elizabeth,29,5,0,4,27.0,67
+398,Tendulkar1,Kingston,149,22,0,4,47.5,268
+399,Tendulkar1,Bridgetown,104,15,1,4,34.25,180
+400,Tendulkar1,Colombo (SSC),698,80,3,9,54.78,1235
+401,Tendulkar1,Melbourne,449,43,3,10,55.3,765
+402,Tendulkar1,Lucknow,142,22,0,1,63.0,224
+403,Tendulkar1,Cuttack,2,0,0,1,25.0,8
+404,Gayle,Queenstown,25,1,1,2,34.5,52
+405,Gayle,Canterbury,6,1,0,1,46.0,13
+406,Gayle,Rajkot,72,12,2,1,105.0,68
+407,Gayle,The Oval,152,19,6,5,90.8,168
+408,Gayle,Kimberley,119,8,2,1,78.0,151
+409,Gayle,Leeds,23,5,0,1,79.0,29
+410,Gayle,Lahore,41,7,1,1,110.0,37
+411,Gayle,Abu Dhabi,235,16,11,3,65.0,249
+412,Gayle,Chennai,43,8,1,2,102.0,22
+413,Gayle,Auckland,48,4,3,2,66.5,59
+414,Gayle,Perth,29,3,1,4,41.0,50
+415,Gayle,Napier,140,10,5,2,74.5,140
+416,Gayle,Melbourne (Docklands),54,8,1,2,56.0,50
+417,Gayle,Birmingham,77,9,3,3,87.0,99
+418,Gayle,Southampton,100,6,0,2,43.5,140
+419,Gayle,Port of Spain,529,63,9,19,69.89,688
+420,Gayle,Nelson,36,3,1,1,55.0,65
+421,Gayle,Toronto,29,5,0,5,30.2,68
+422,Gayle,Multan,9,2,0,1,64.0,14
+423,Gayle,Chittagong,38,5,0,1,54.0,70
+424,Gayle,Canberra,217,10,16,2,93.0,152
+425,Gayle,Nottingham,179,21,0,3,61.0,287
+426,Gayle,King City (NW),129,17,6,2,107.5,103
+427,Gayle,Sharjah,160,25,3,5,85.8,176
+428,Gayle,Roseau,45,5,1,2,91.5,48
+429,Gayle,Christchurch,78,10,3,3,103.0,68
+430,Gayle,Durban,42,5,2,2,88.0,40
+431,Gayle,St John's,134,17,1,3,61.67,216
+432,Gayle,Vijayawada,5,0,0,1,62.0,8
+433,Gayle,Vadodara,107,11,3,2,74.0,118
+434,Gayle,Brisbane,142,16,1,3,120.33,142
+435,Gayle,Mumbai (BS),61,10,2,3,76.33,58
+436,Gayle,Delhi,82,7,2,2,69.0,113
+437,Gayle,Chester-le-Street,29,3,0,2,59.5,63
+438,Gayle,Basseterre,175,17,6,7,63.29,233
+439,Gayle,Nairobi (Gym),80,9,3,2,72.5,92
+440,Gayle,Dhaka,161,24,1,7,60.86,234
+441,Gayle,Kingstown,308,38,6,11,80.36,397
+442,Gayle,North Sound,117,19,1,4,68.75,153
+443,Gayle,Harare,403,52,7,8,83.25,472
+444,Gayle,Dublin,136,14,4,2,101.5,139
+445,Gayle,Nairobi,152,17,1,1,101.0,150
+446,Gayle,Nagpur,155,18,3,2,100.5,162
+447,Gayle,Cape Town,61,9,0,3,35.67,112
+448,Gayle,Karachi,7,1,0,1,70.0,10
+449,Gayle,Centurion,34,3,2,3,59.67,36
+450,Gayle,Jamshedpur,7,1,0,1,46.0,15
+451,Gayle,Providence,179,14,5,7,51.71,242
+452,Gayle,Ahmedabad,316,36,7,4,99.75,326
+453,Gayle,Kochi,0,0,0,1,0.0,2
+454,Gayle,Colombo (RPS),81,11,0,2,66.5,119
+455,Gayle,Bridgetown,503,43,21,11,74.0,563
+456,Gayle,Jaipur,237,28,6,2,93.0,253
+457,Gayle,St George's,286,28,9,10,65.6,366
+458,Gayle,Khulna,50,6,3,2,77.5,62
+459,Gayle,Benoni,0,0,0,1,0.0,5
+460,Gayle,Adelaide,11,1,0,3,31.0,24
+461,Gayle,Wellington,85,6,8,3,126.33,62
+462,Gayle,Gros Islet,503,64,6,14,78.57,566
+463,Gayle,East London,1,0,0,1,20.0,5
+464,Gayle,Bristol,72,9,2,2,78.5,114
+465,Gayle,Johannesburg,171,14,4,2,122.5,166
+466,Gayle,Georgetown,2,0,0,1,11.0,17
+467,Gayle,Kuala Lumpur,183,23,5,5,70.4,182
+468,Gayle,Lord's,142,13,1,3,50.67,192
+469,Gayle,Cardiff,63,9,1,2,89.5,85
+470,Gayle,Kingston,783,85,30,18,87.0,800
+471,Gayle,Jodhpur,27,4,0,1,71.0,38
+472,Gayle,Port Elizabeth,41,7,0,3,57.33,68
+473,Gayle,Faisalabad,0,0,0,1,0.0,4
+474,Gayle,Sydney,3,0,0,2,37.5,10
+475,Gayle,Bulawayo,237,26,2,4,57.0,275
+476,Gayle,Colombo (SSC),114,16,4,6,49.33,144
+477,Gayle,Melbourne,22,1,2,4,107.75,22
+478,Gayle,Kandy,93,19,1,2,97.5,88
+479,Gayle,Cuttack,5,1,0,1,100.0,5
+480,Tendulkar2,Colombo (PSS),115,9,0,4,53.25,228
+481,Tendulkar2,The Oval,114,15,0,2,59.5,206
+482,Tendulkar2,Leeds,193,19,3,1,58.0,330
+483,Tendulkar2,Lahore,10,1,0,2,52.5,17
+484,Tendulkar2,Perth,226,32,0,6,57.0,364
+485,Tendulkar2,Birmingham,187,31,1,4,51.0,286
+486,Tendulkar2,Port of Spain,117,14,0,2,22.5,264
+487,Tendulkar2,Rawalpindi,1,0,0,1,33.0,3
+488,Tendulkar2,Multan,194,21,0,1,55.0,348
+489,Tendulkar2,Chittagong,157,19,2,3,63.0,247
+490,Tendulkar2,Nottingham,164,23,0,4,41.0,332
+491,Tendulkar2,Christchurch,24,3,0,2,27.0,45
+492,Tendulkar2,Brisbane,23,4,0,2,33.0,67
+493,Tendulkar2,Durban,101,18,0,6,37.0,224
+494,Tendulkar2,Dhaka,531,57,2,4,59.75,828
+495,Tendulkar2,Hamilton,201,32,0,3,52.0,339
+496,Tendulkar2,Harare,130,14,1,4,48.5,263
+497,Tendulkar2,Karachi,49,10,0,2,67.0,76
+498,Tendulkar2,Cape Town,256,39,0,4,42.25,474
+499,Tendulkar2,Centurion,147,21,1,2,75.5,275
+500,Tendulkar2,Bloemfontein,170,25,1,2,63.0,219
+501,Tendulkar2,Bridgetown,104,15,1,4,34.25,180
+502,Tendulkar2,Galle,128,18,1,4,84.0,208
+503,Tendulkar2,Adelaide,160,21,0,8,41.25,343
+504,Tendulkar2,Wellington,219,29,2,4,59.25,323
+505,Tendulkar2,Johannesburg,58,10,0,2,56.0,111
+506,Tendulkar2,Lord's,111,16,0,6,38.0,306
+507,Tendulkar2,Kingston,127,20,0,2,63.0,202
+508,Tendulkar2,Port Elizabeth,6,1,0,2,17.5,18
+509,Tendulkar2,Sydney,336,43,1,6,70.67,546
+510,Tendulkar2,Bulawayo,110,16,0,2,65.0,177
+511,Tendulkar2,Colombo (SSC),171,20,1,4,53.75,289
+512,Tendulkar2,Melbourne,449,43,3,10,55.3,765
+513,Sehwag,Queenstown,23,4,0,1,58.0,39
+514,Sehwag,The Oval,46,8,1,2,56.0,43
+515,Sehwag,Peshawar,18,4,0,2,77.5,24
+516,Sehwag,Lahore,46,9,0,2,89.5,51
+517,Sehwag,Auckland,152,14,6,3,76.0,171
+518,Sehwag,Perth,32,6,0,1,94.0,34
+519,Sehwag,Napier,185,20,3,2,113.5,175
+520,Sehwag,Melbourne (Docklands),64,8,1,3,97.33,65
+521,Sehwag,Port of Spain,138,18,1,4,73.0,147
+522,Sehwag,Rawalpindi,93,14,1,2,117.0,81
+523,Sehwag,Nottingham,4,0,0,1,33.0,12
+524,Sehwag,Christchurch,10,1,0,2,42.5,26
+525,Sehwag,Durban,34,4,1,1,58.0,58
+526,Sehwag,Dambulla,222,32,2,6,107.0,222
+527,Sehwag,Basseterre,97,9,3,1,116.0,83
+528,Sehwag,Dhaka,474,59,11,9,116.33,377
+529,Sehwag,Hamilton,129,14,6,2,94.5,93
+530,Sehwag,Harare,48,8,0,2,93.0,51
+531,Sehwag,Karachi,247,32,8,3,137.0,185
+532,Sehwag,Cape Town,0,0,0,1,0.0,4
+533,Sehwag,Centurion,44,6,1,2,86.0,49
+534,Sehwag,Hambantota,111,12,0,2,99.0,112
+535,Sehwag,Colombo (RPS),383,54,3,12,101.25,350
+536,Sehwag,Bridgetown,21,3,0,1,58.0,36
+537,Sehwag,Wellington,45,9,0,1,112.0,40
+538,Sehwag,East London,4,0,0,1,80.0,5
+539,Sehwag,Adelaide,20,3,0,1,95.0,21
+540,Sehwag,Johannesburg,5,0,0,1,100.0,5
+541,Sehwag,Lord's,117,16,1,3,83.33,116
+542,Sehwag,Kingston,34,4,0,2,65.5,51
+543,Sehwag,Sydney,34,5,1,3,101.67,37
+544,Sehwag,Port Elizabeth,18,3,0,1,81.0,22
+545,Sehwag,Bulawayo,2,0,0,1,28.0,7
+546,Sehwag,Colombo (SSC),0,0,0,1,0.0,1
+547,Sehwag,Melbourne,49,5,0,3,51.0,86
+548,Kohli,Rajkot,29,2,1,1,131.0,22
+549,Kohli,Pallekele,68,11,1,1,141.0,48
+550,Kohli,Chennai,70,10,1,1,170.0,41
+551,Kohli,Pune,21,2,0,1,123.0,17
+552,Kohli,Mumbai,38,7,0,1,190.0,20
+553,Kohli,Kolkata,15,3,0,1,93.0,16
+554,Kohli,Birmingham,66,9,1,1,160.0,41
+555,Kohli,Port of Spain,14,2,0,1,116.0,12
+556,Kohli,Durban,28,5,0,1,147.0,19
+557,Kohli,Manchester,4,0,0,1,80.0,5
+558,Kohli,Dhaka,319,24,10,6,126.0,247
+559,Kohli,Harare,26,3,1,1,123.0,21
+560,Kohli,Ahmedabad,27,3,0,1,122.0,22
+561,Kohli,Bangalore,9,1,0,1,81.0,11
+562,Kohli,Colombo (RPS),185,20,4,5,105.6,151
+563,Kohli,Dharamsala,43,1,3,1,159.0,27
+564,Kohli,Sydney,22,0,1,1,104.0,21
+565,Kohli,Melbourne,31,3,0,1,129.0,24
+566,Kohli,Cuttack,1,0,0,1,100.0,1
